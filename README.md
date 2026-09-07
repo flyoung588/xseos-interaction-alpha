@@ -1,6 +1,6 @@
-# X-SEOS Symbiotic Interaction Alpha — Public Static Surface
+# X-SEOS Interaction Grammar Baseline — Public Static Surface
 
-This branch contains only the public, static interaction surface for GitHub Pages.
+This branch contains only the public static `INTERACTION_GRAMMAR_BASELINE`. It illustrates interaction grammar and is not a real Counterpart Alpha.
 
 - No backend and no telemetry upload.
 - State stays in browser `localStorage`.
